@@ -9,9 +9,6 @@ Wi-Fi para comunicação de rede
 Como Executar
 Clone o Repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/AtilaGoesSk/ProjetoFinalMqttPicoW.git
 Configuração do Ambiente:
 
@@ -24,9 +21,7 @@ No código fonte, altere as credenciais do broker MQTT, incluindo o IP e a porta
 Compilar e Enviar o Código:
 
 Compile o código no ambiente de desenvolvimento do Pico SDK:
-bash
-Copiar
-Editar
+
 mkdir build
 cd build
 cmake ..
